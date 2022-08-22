@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69092995007",
+    "project_id": "chatsapp-efb3b",
+    "storage_bucket": "chatsapp-efb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69092995007:android:8ffd4d4a1b63109e49bb0a",
+        "android_client_info": {
+          "package_name": "com.karon.chatappproject.chatappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69092995007-1ljilecmsg6qelm95umgjqokpp4vffs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karon.chatappproject.chatappproject",
+            "certificate_hash": "f4390cf1c9323e5d5327a6481a7a473be45039a9"
+          }
+        },
+        {
+          "client_id": "69092995007-i8us02ge7majqpir0n891h7spi40131t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbiBetpKJ-77k3F5JtGUwGiRf23z-903A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69092995007-i8us02ge7majqpir0n891h7spi40131t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
